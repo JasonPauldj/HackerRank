@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank_HackerRank_Radio_Transmitters", "HackerRank_HackerRank_Radio_Transmitters\HackerRank_HackerRank_Radio_Transmitters.csproj", "{9B629416-0C37-47C9-9539-2C97F8BF45AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B629416-0C37-47C9-9539-2C97F8BF45AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B629416-0C37-47C9-9539-2C97F8BF45AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B629416-0C37-47C9-9539-2C97F8BF45AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B629416-0C37-47C9-9539-2C97F8BF45AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {736F5FFC-4DFB-4D40-86E1-D1877E0F6FF7}
+	EndGlobalSection
+EndGlobal
